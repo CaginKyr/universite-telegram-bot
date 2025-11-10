@@ -61,7 +61,7 @@
 ### Adım 1: Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/universite-telegram-bot.git
+git clone https://github.com/caginnkyr/universite-telegram-bot.git
 cd universite-telegram-bot
 ```
 
@@ -301,8 +301,8 @@ Bu bot eğitim amaçlıdır. Gerçek üretim ortamında kullanmadan önce güven
 
 Sorularınız veya sorunlarınız için:
 
-1. [Issues](https://github.com/kullaniciadi/universite-telegram-bot/issues) bölümünde yeni bir konu açın
-2. [Discussions](https://github.com/kullaniciadi/universite-telegram-bot/discussions) bölümünde tartışmaya katılın
+1. [Issues](https://github.com/caginkyr/universite-telegram-bot/issues) bölümünde yeni bir konu açın
+2. [Discussions](https://github.com/caginkyr/universite-telegram-bot/discussions) bölümünde tartışmaya katılın
 
 ---
 
