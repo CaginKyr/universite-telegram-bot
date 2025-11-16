@@ -61,7 +61,7 @@
 ### Adım 1: Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/caginnkyr/universite-telegram-bot.git
+git clone https://github.com/caginkyr/universite-telegram-bot.git
 cd universite-telegram-bot
 ```
 
@@ -308,4 +308,4 @@ Sorularınız veya sorunlarınız için:
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
 
-**Son Güncelleme**: 2025
+**Son Güncelleme**: 2025 Kasım
